@@ -1,3 +1,7 @@
+-- links to dataset: 
+-- https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq/data (2018 taxi data, named table to '2018_nyc_taxi_data')
+-- https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc (Taxi zones data, named table to 'taxi_zones')
+
 -- Add two column where we add name of corresponding LocationID from 'taxi_zone' table
 
 ALTER TABLE 
