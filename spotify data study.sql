@@ -1,7 +1,3 @@
--- Dataset from https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019
--- rename table to 'spotify_top_songs'
-
-
 -- Column descriptions:
 -- title: song title
 -- artist: song's artist
