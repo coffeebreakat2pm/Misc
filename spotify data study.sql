@@ -18,7 +18,7 @@
 -- artist type: Tells if artist is solo, duo, trio, or a band
 
 -- The data is a set of all songs from spotify's top 100 playlist from 2010-2019 (100 songs from each year, over a 10 year period)
-
+-- Dataset from https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019
 
 
 -- Ranking artist with most songs in the top 100's over the time period
